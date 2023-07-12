@@ -46,3 +46,7 @@ Mobile development, in my eyes, is a good conbination of user experience and log
 ## What I'm currently learning 📚
 
 - UIKit, Core Data, SwiftData, Vapor
+
+- ##  How to reach me 📫
+- [LinkedIn](https://www.linkedin.com/in/ben-ling-b2a86520b/) 
+
