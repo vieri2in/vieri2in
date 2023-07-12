@@ -34,7 +34,7 @@ Mobile development, in my eyes, is a good conbination of user experience and log
 - Vapor (sort of)
 - Unit Testing
 - JavaScript (sort of)
-- HTML, CSS, JavaScript (sort of)
+- HTML, CSS (sort of)
 - MySQL (sort of)
 
 ### Application Development
