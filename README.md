@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Computer Science junior student at Colorado State University who just graduated from an IOS Bootcamp by Kodeco. My interest switched to Mobile and IOS development after I encountered Swift programming language in March 2023. From then on, I decided to fling myself into the IOS world. 
+I'm Bin Li, a Computer Science junior student at Colorado State University who just graduated from an IOS Bootcamp by Kodeco. My interest switched to Mobile and IOS development after I encountered Swift programming language in March 2023. From then on, I decided to fling myself into the IOS world. 
 
 ### Why I choose here
 
@@ -24,45 +24,25 @@ Mobile development, in my eyes, is a good conbination of user experience and log
 
 ## My skills 📜
 
-### Web technologies
+### Moble and Web technologies
 
-- JavaScript
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- TypeScript
-- Next.js
-- Prisma
-- HTML, CSS
-  ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
-- SCSS
-- Node.js ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- Deno
-- WordPress
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- PHP
-- MySQL
-- Microsoft Azure ([AZ 900 Certification](https://www.credly.com/badges/1da5ef87-dc8f-4aeb-8870-c19d0e020895/public_url))
+- Swift
+- SwiftUI
+- UIKit
+- Core Data (sort of)
+- SwiftData (sort of)
+- Vapor (sort of)
+- Unit Testing
+- JavaScript (sort of)
+- HTML, CSS, JavaScript (sort of)
+- MySQL (sort of)
 
 ### Application Development
 
-- Python ([Microsoft Certified](https://www.youracclaim.com/badges/46b260a8-ef2c-41a3-9f61-aa0920eab84a/public_url))
-- C++ (sort of)
-
-### Productivity utilities
-
-- Microsoft Office - I am a Certified
-  [Excel](https://www.youracclaim.com/badges/36154164-82b5-4fbf-b65c-c152af720245/public_url)
-  and
-  [Word](https://www.youracclaim.com/badges/6f4eee1d-3379-4a8b-b846-35762708d4b8/public_url)
-  Expert
-
-### Languages 🌐
-
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
-| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Czech         | Native language                                                           |
+- C++
+- Java
+- Python (sort of)
 
 ## What I'm currently learning 📚
 
-- Diving into VS Code's code base
+- UIKit, Core Data, SwiftData, Vapor
