@@ -39,8 +39,8 @@ Mobile development, in my eyes, is a good conbination of user experience and log
 
 ### Application Development
 
-- C++
-- Java
+- C++ (My college bring me deep into c++ world.)
+- Java (For a long time, it's the language I learn both in classroom and out of my class)
 - Python (sort of)
 
 ## What I'm currently learning 📚
