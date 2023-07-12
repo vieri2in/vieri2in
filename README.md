@@ -1,4 +1,4 @@
-### Hi, I'm Bin 👋
+### Hi, everyone :wave:
 
 <!--
 **vieri2in/vieri2in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Computer Science junior student at Colorado State University who just graduated from an IOS Bootcamp by Kodeco. My interest switched to Mobile and IOS development after I encountered Swift programming language in March 2023. From then on, I decided to fling myself into the IOS world. 
