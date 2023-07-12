@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Bin Li, a Computer Science junior student at Colorado State University who just graduated from an IOS Bootcamp by Kodeco. My interest switched to Mobile and IOS development after I encountered Swift programming language in March 2023. From then on, I decided to fling myself into the IOS world. 
 
-### Why I choose here
+### Why I am here
 
 I am amazed by the changes computing can bring to the world and have kept a learning heart since my first programming course at college. Before learning Computer Science, I was a licensed architect in my native county who did not enjoy designing because I was not art-minded. Rather, I prefer to identify myself as an engineer. Fortunately, I found where my passion and talent lie as I learned Java in college. That explains why I not only did well on campus but also spent lots of time on self-learning platforms such as YouTube, Udemy, and Kodeco.
 
