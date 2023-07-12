@@ -22,9 +22,9 @@ I am amazed by the changes computing can bring to the world and have kept a lear
 
 Mobile development, in my eyes, is a good conbination of user experience and logical programming. It resembles my previous job of architeactural desgining, which is also the conbination of user experience, art, and tech. Luckily, this time I can do this job mainly as a engneer, not a designer.
 
-## My skills 📜
+### My skills 📜
 
-### Moble and Web technologies
+#### Moble and Web technologies
 
 - Swift
 - SwiftUI
@@ -37,16 +37,16 @@ Mobile development, in my eyes, is a good conbination of user experience and log
 - HTML, CSS (sort of)
 - MySQL (sort of)
 
-### Application Development
+#### Application Development
 
 - C++ (My college bring me deep into C++ world.)
 - Java (It's the language I learn both in classroom and out of my class)
 - Python (sort of)
 
-## What I'm currently learning 📚
+### What I'm currently learning 📚
 
 - UIKit, Core Data, SwiftData, Vapor
 
-##  How to reach me 📫
+###  How to reach me 📫
 - [LinkedIn](https://www.linkedin.com/in/ben-ling-b2a86520b/) 
 
