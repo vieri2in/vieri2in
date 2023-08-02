@@ -35,7 +35,6 @@ Mobile development, in my eyes, is a good combination of user experience and log
 - Unit Testing
 - JavaScript (sort of)
 - HTML, CSS (sort of)
-- MySQL (sort of)
 
 #### Application Development
 
