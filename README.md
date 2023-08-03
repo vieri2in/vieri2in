@@ -1,5 +1,4 @@
-
-![Bin LI](https://github.com/vieri2in/vieri2in/assets/97074757/7f4f23dd-986c-486b-bbd3-71d2682328cd)
+<img src="https://github.com/vieri2in/vieri2in/assets/97074757/7f4f23dd-986c-486b-bbd3-71d2682328cd"  width=100% height=100%> 
 
 ### Hi, everyone :wave:
 
