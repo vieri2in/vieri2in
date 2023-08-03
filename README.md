@@ -1,4 +1,4 @@
-<img src="https://github.com/vieri2in/vieri2in/assets/97074757/7f4f23dd-986c-486b-bbd3-71d2682328cd"  width=100% height=100%> 
+<img src="https://github.com/vieri2in/vieri2in/assets/97074757/2bbb0dd6-1370-49c8-b068-839cc9df72e7"  width=100% height=100%> 
 
 ### Hi, everyone :wave:
 
