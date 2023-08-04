@@ -30,18 +30,16 @@ Mobile development, in my eyes, is a good combination of user experience and log
 
 - Swift
 - SwiftUI
-- UIKit (sort of)
 - Core Data, Realm 
 - Vapor, PostgreSQL, MongoDB Atlas
-- Swift Concurrency, Combine 
+- Swift Concurrency
 - Unit Testing
-- JavaScript (sort of)
-- HTML, CSS (sort of)
+- HTML, CSS, JavaScript (sort of)
 
 #### Application Development
 
-- C++ (My college brings me deep into C++ world.)
-- Java (It's the language I learn both in classroom and out of my class)
+- C++ (CSU brings me deep into C++ world.)
+- Java (I learn it in and out of the classroom.)
 - Python (sort of)
 
 ### What I'm currently learning 📚
@@ -49,5 +47,5 @@ Mobile development, in my eyes, is a good combination of user experience and log
 - UIKit, Firebase, Combine, MapKit
 
 ###  How to reach me 📫
-- [LinkedIn](https://www.linkedin.com/in/ben-ling-b2a86520b/) 
+- [LinkedIn](https://www.linkedin.com/in/bin-li-b2a86520b/) 
 
