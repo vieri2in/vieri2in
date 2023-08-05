@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Bin Li, a Computer Science junior student at Colorado State University as well as a graduate from a IOS Bootcamp by Kodeco. My interest switched to IOS native development after I met Swift programming language in March 2023. From then on, I decided to fling myself into the IOS world. 
+I'm Bin Li, a Computer Science junior student at Colorado State University as well as a graduate from a IOS Bootcamp by Kodeco. My interest switched to IOS native development after I met Swift programming language in March 2023. From then on, I decided to fling🤸 myself into the IOS world. 
 
 ### Why I am here :interrobang:
 
