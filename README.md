@@ -20,9 +20,9 @@ I'm Bin Li, a Computer Science junior student at Colorado State University as we
 
 ### Why I am here :interrobang:
 
-I am amazed by the changes computing can bring to the world and have kept a learning heart since my first programming course at college. Before learning Computer Science, I was a licensed architect in my native county who did not🤕🧟‍♂️ enjoy designing much because I was not art-minded🎨🎵. Rather, I prefer to identify myself as an engineer👨‍🔧🦾🦿. Fortunately, I eventually found where my passion💥 and talent🧙 lie as I learned Java in college. That explains why I not only did well on campus but also spent lots of time on self-learning platforms such as YouTube, Udemy, and Kodeco.
+I am amazed by the changes computing can bring to the world and have kept a learning heart since my first programming course at college. Before learning Computer Science, I was a licensed architect in my native county who did not🤕🧟‍♂️ enjoy designing much because I was not art-minded🎨🎵. Rather, `I prefer to identify myself as an engineer`👨‍🔧🦾🦿. Fortunately, I eventually found where my passion💥 and talent🧙 lie as I learned Java in college. That explains why I not only did well on campus but also spent lots of time on self-learning platforms such as YouTube, Udemy, and Kodeco.
 
-Mobile development, in my eyes, is a good combination of user experience and logical programming. It resembles my previous job of architectural designing, which is also a combination of **`user experience, art, and tech`**. Luckily, this time I can do this job mainly as an engineer, not a designer.
+Mobile development, in my eyes, is a good combination of user experience and logical programming. It resembles my previous job of architectural designing, which is also a combination of `user experience, art, and tech`. Luckily, this time I can do this job mainly as an engineer, not a designer.
 
 ### My skills :muscle:
 
