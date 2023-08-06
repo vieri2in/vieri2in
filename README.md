@@ -26,7 +26,7 @@ Mobile development, in my eyes, is a good combination of user experience and log
 
 ### My skills :muscle:
 
-#### Mobile and Web technologies 📱
+#### Mobile and Web technologies 📱🖥️
 
 - Swift
 - SwiftUI
@@ -36,7 +36,7 @@ Mobile development, in my eyes, is a good combination of user experience and log
 - Unit Testing
 - HTML, CSS, JavaScript (sort of)
 
-#### Application Development 🖥️
+#### Application Development 🗄️
 
 - C++ (CSU brings me deep into C++ world.)
 - Java (My first programming language, I learn it in and out of the classroom.)
