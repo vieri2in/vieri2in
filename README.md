@@ -16,35 +16,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Bin Li, a Computer Science senior student at Colorado State University as well as a graduate from a IOS Bootcamp by Kodeco. I am interested in cloud, distributed system, or DevOps. 
+I'm Bin Li, a Computer Science senior student at Colorado State University as well as a graduate from a IOS Bootcamp by Kodeco. I am interested in cloud, full stack, distributed system, or DevOps. 
 
 ### Why I am here :interrobang:
 
 I am amazed by the changes computing can bring to the world and have kept a learning heart since my first programming course at college. Before learning Computer Science, I was a licensed architect in my native county who did not🤕🧟‍♂️ enjoy designing much because I was not art-minded🎨🎵. Rather, `I prefer to identify myself as an engineer`👨‍🔧🦾🦿. Fortunately, I eventually found where my passion💥 and talent🧙 lie as I learned Java in college. That explains why I not only did well on campus but also spent lots of time on self-learning platforms such as YouTube, Udemy, and Kodeco.
 
-Mobile development, in my eyes, is a good combination of user experience and logical programming. It resembles my previous job of architectural designing, which is also a combination of `user experience, art, and tech`. Luckily, this time I can do this job mainly as an engineer, not a designer.
-
 ### My skills :muscle:
-
-#### Mobile and Web technologies 📱🖥️
-
-- Swift
-- SwiftUI
-- Core Data, Realm 
-- Vapor, PostgreSQL, MongoDB Atlas
-- Swift Concurrency
-- Unit Testing
-- HTML, CSS, JavaScript (sort of)
-
-#### Application Development 🗄️
-
-- C++ (CSU brings me deep into C++ world.)
-- Java (My first programming language, I learn it in and out of the classroom.)
-- Python (sort of)
+- Git, GitLab, cmake, bash scripting, Linux commands \\
+- avaScript (advanced), NodeJS, Express, Angular, ReactJS, Redux \\
+- Python (beginner-level), Java (intermediate-level), C++ (intermediate-level)  \\
+- AWS, Firebase, Docker \\
+- JUnit, React testing library\\
+- UDP, TCP, HTTP and Socket programming using Socket.IO \\
 
 ### What I'm currently learning 📚
 
-- UIKit, Firebase, Combine, MapKit
+- Java, Python, AWS
 
 ###  How to reach me 📫
 - [LinkedIn](https://www.linkedin.com/in/bin-li-b2a86520b/) 
