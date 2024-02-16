@@ -24,7 +24,7 @@ I am amazed by the changes computing can bring to the world and have kept a lear
 
 ### My skills :muscle:
 - Git, GitLab, cmake, bash scripting, Linux commands 
-- avaScript (advanced), NodeJS, Express, Angular, ReactJS, Redux 
+- JavaScript (advanced), NodeJS, Express, Angular, ReactJS, Redux 
 - Python (beginner-level), Java (intermediate-level), C++ (intermediate-level)  
 - AWS, Firebase, Docker 
 - JUnit, React testing library
