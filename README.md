@@ -23,16 +23,16 @@ I'm Bin Li, a Computer Science senior student at Colorado State University as we
 I am amazed by the changes computing can bring to the world and have kept a learning heart since my first programming course at college. Before learning Computer Science, I was a licensed architect in my native county who did not🤕🧟‍♂️ enjoy designing much because I was not art-minded🎨🎵. Rather, `I prefer to identify myself as an engineer`👨‍🔧🦾🦿. Fortunately, I eventually found where my passion💥 and talent🧙 lie as I learned Java in college. That explains why I not only did well on campus but also spent lots of time on self-learning platforms such as YouTube, Udemy, and Kodeco.
 
 ### My skills :muscle:
-- Git, GitLab, cmake, bash scripting, Linux commands \\
-- avaScript (advanced), NodeJS, Express, Angular, ReactJS, Redux \\
-- Python (beginner-level), Java (intermediate-level), C++ (intermediate-level)  \\
-- AWS, Firebase, Docker \\
-- JUnit, React testing library\\
-- UDP, TCP, HTTP and Socket programming using Socket.IO \\
+- Git, GitLab, cmake, bash scripting, Linux commands 
+- avaScript (advanced), NodeJS, Express, Angular, ReactJS, Redux 
+- Python (beginner-level), Java (intermediate-level), C++ (intermediate-level)  
+- AWS, Firebase, Docker 
+- JUnit, React testing library
+- UDP, TCP, HTTP and Socket programming using Socket.IO 
 
 ### What I'm currently learning 📚
 
-- Java, Python, AWS
+- Java, Python spriting, AWS
 
 ###  How to reach me 📫
 - [LinkedIn](https://www.linkedin.com/in/bin-li-b2a86520b/) 
